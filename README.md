@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi! humans!
+
+tanwee here,i like readings.
